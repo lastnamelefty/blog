@@ -231,8 +231,9 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/apolinarheysquierdo"
 
   [[params.social]]
-    name = "mastadon"  
+    name = "mastodon"  
     url  = "https://hachyderm.io/@lastnamelefty"
+
 [languages]
   [languages.en]
     weight    = 1
