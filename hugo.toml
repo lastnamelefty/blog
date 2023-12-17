@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title   = "Polo like shirt"
+title   = "Polo like the shirt"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -230,6 +230,9 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/apolinarheysquierdo"
 
+  [[params.social]]
+    name = "mastadon"  
+    url  = "https://hachyderm.io/@lastnamelefty"
 [languages]
   [languages.en]
     weight    = 1
